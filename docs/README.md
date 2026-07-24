@@ -15,4 +15,4 @@ This documentation is the authoritative design record for NCCP.
 9. [API](08-api/README.md)
 10. [Data Model](09-data-model/README.md)
 11. [Appendices](10-appendices/README.md)
-12. [Architecture Decision Records](../adr/README.md)
+12. [Architecture Decision Records](https://github.com/dmac623/network-change-control-platform/tree/main/adr)
