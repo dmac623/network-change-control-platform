@@ -1,0 +1,30 @@
+site_name: Network Change Control Platform
+site_description: Governance-first enterprise network change control plane
+repo_url: https://github.com/dmac623/network-change-control-platform
+theme:
+  name: material
+nav:
+  - Home: README.md
+  - Executive Summary: 00-executive-summary.md
+  - Product Vision: 01-product-vision.md
+  - Architecture:
+      - Overview: 02-architecture/README.md
+      - System Overview: 02-architecture/01-system-overview.md
+      - Tenets: 02-architecture/02-architectural-tenets.md
+      - Components: 02-architecture/03-component-architecture.md
+      - Security: 02-architecture/04-security-architecture.md
+      - Deployment: 02-architecture/05-deployment-architecture.md
+      - Runtime: 02-architecture/06-runtime-architecture.md
+      - Scalability: 02-architecture/07-scalability-resilience.md
+  - Domain Model: 03-domain-model/README.md
+  - Contracts: 04-contracts/README.md
+  - Functional Specifications: 05-functional-specifications/README.md
+  - Engineering Guide: 06-engineering-guide/README.md
+  - Operations: 07-operations/README.md
+  - API: 08-api/README.md
+  - Data Model: 09-data-model/README.md
+  - Appendices: 10-appendices/README.md
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
